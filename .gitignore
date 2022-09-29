@@ -3,6 +3,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+index.html
+syllabus.html
+schedule.html
 
 _site
 .sass-cache
