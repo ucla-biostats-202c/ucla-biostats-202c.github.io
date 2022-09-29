@@ -1,9 +1,9 @@
 ---
 layout: course
-title: Biostats 270
+title: Biostats 202C
 ---
 
-# Stochastic processes - Spring 2022
+# Bayes Theory - Fall 2022
 
 ## Syllabus
 
@@ -26,7 +26,7 @@ Office hours: offered generously; please email me.
 
 ### Course Webpage
 
-<https://ucla-biostats-270.github.io>
+<https://ucla-biostats-202C.github.io>
 
 ### Course Learning Objectives and Competencies
 

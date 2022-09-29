@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Biostats 270
+title: Biostats 202C
 ---
 
 ## Course Description
