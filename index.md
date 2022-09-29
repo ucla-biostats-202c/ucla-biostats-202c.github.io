@@ -20,7 +20,4 @@ Email: <aholbroo@g.ucla.edu>\
 Office hours: offered generously; please email me.
 
 
-## Acknowledgement
-
-Special thanks to [Dr. Marc Suchard](https://ph.ucla.edu/faculty/suchard) and [Dr. Xiang Ji](https://xiang-ji-ncsu.github.io/) for their invaluable help.
 
