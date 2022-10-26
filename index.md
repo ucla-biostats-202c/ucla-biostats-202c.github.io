@@ -17,7 +17,7 @@ Students will understand:
 ## Time and Location
 
 Mondays 1-250pm @ CHS 61-235 \
-Wednesdays 1-150pm @ CHS 61-235 \
+Wednesdays 1-150pm @ CHS 61-235 
 
 ## Instructor
 
