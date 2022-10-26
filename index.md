@@ -11,8 +11,8 @@ This course iterates between formal lectures and coding assignments. Students wi
 
 ## Time and Location
 
-Mondays 1-250pm @ CHS 61-235
-Wednesdays 1-150pm @ CHS 61-235
+Mondays 1-250pm @ CHS 61-235 \
+Wednesdays 1-150pm @ CHS 61-235 \
 
 ## Instructor
 
@@ -22,5 +22,7 @@ UCLA Fielding School of Public Health\
 Email: <aholbroo@g.ucla.edu>\
 Office hours: Wednesdays 2-250pm @ CHS 76-062A
 
-[Syllabus](https://ucla-biostats-202C.github.io/notes/Biostatistics_202C_Syllabus.pdf)
+## Syllabus
+
+[PDF](https://ucla-biostats-202C.github.io/notes/Biostatistics_202C_Syllabus.pdf)
 
