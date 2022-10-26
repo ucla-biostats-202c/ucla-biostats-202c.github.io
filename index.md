@@ -11,13 +11,16 @@ This course iterates between formal lectures and coding assignments. Students wi
 
 ## Time and Location
 
-Tues/Thur, 3-450pm @ CHS 61235
+Mondays 1-250pm @ CHS 61-235
+Wednesdays 1-150pm @ CHS 61-235
 
 ## Instructor
 
 [Andrew J. Holbrook](http://andrewjholbrook.github.io/)\
+Assistant Professor of Biostatistics\
+UCLA Fielding School of Public Health\
 Email: <aholbroo@g.ucla.edu>\
-Office hours: offered generously; please email me.
+Office hours: Wednesdays 2-250pm @ CHS 76-062A
 
-
+[Syllabus](https://ucla-biostats-202C.github.io/notes/Biostatistics_202C_Syllabus.pdf)
 
