@@ -5,9 +5,14 @@ title: Biostats 202C
 
 ## Course Description
 
-This 4-unit course focuses on computational issues that arise in the context of applied stochastic process modeling. After a short review of Monte Carlo methods for generating (pseudo) random variables, the course covers Markov chains and Markov chain Monte Carlo. The latter will be used for fitting stochastic process models throughout. Then, the course covers Brownian motion, the basics of stochastic differential equations (quadratic variation and Itô's lemma) and the Euler-Maruyama algorithm. Then comes Gaussian processes and their simulation and application using basis and kernel representations. Next, we pivot to point processes, focusing on Poisson and Hawkes processes. For the latter, we cover direct, thinning-based and cluster-based simulation procedures as well as inference using fast likelihood calculations. 
+This 4-unit course involves the mathematical underpinnings of the Bayesian approach to statistical inference; closed form computations; computation; hierarchical models; model selection; hypothesis testing; prior specification; comparative inference; nonparametric methods.
 
-This course iterates between formal lectures and coding assignments. Students will develop their own code throughout, and the final project involves the rigorous implementation of one or more of the methods encountered during the quarter.
+Students will understand:
+1. the difference between Bayesian and classical inference;
+2. the theory and mechanics of Bayesian inference;
+3. how to fit Bayesian models algebraically and how models combine data with prior belief to make inference;
+4. computing for Bayesian inference;
+5. Bayesian approaches to regression.
 
 ## Time and Location
 
