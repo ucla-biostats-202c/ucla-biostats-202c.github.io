@@ -1,6 +1,6 @@
 ---
-title: Biostats 202C
 layout: course
+title: Biostats 202C
 ---
 
 ## Course Schedule
