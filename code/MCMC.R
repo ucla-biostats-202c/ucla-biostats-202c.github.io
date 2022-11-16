@@ -1180,7 +1180,7 @@ hmc_results <- hmc_results[10001:100000,]
 summary(effectiveSize(as.mcmc(hmc_results[,1:10])))
 plot(hmc_results[,1],type="l")
 qqnorm(hmc_results[,1])
-qqline(hmc_results[,1])
+qqline(hmc_results[,1],col="red")
 
 
 # tune both L and stepsize?
